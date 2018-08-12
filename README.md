@@ -1,5 +1,3 @@
-# test
-test repo for programming
 package aadPack;
 
 import java.util.*;
